@@ -12,5 +12,6 @@ Gereksinimler
 
 4. Satışlarda kampanya entegrasyonunu simule ediniz.
 
-![consoleJavaCamp2](https://user-images.githubusercontent.com/46132459/116924987-42f3a100-ac61-11eb-87d3-a983848be851.PNG)
+![javaConsole](https://user-images.githubusercontent.com/46132459/116931342-8c47ee80-ac69-11eb-95f8-aef9fb8df92e.PNG)
+
 
